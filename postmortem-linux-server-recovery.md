@@ -32,6 +32,7 @@ sudo service httpd status
 
 ```bash
 sudo service httpd restart
+sudo service httpd status
 ```
 
 2.4. **Результат**: Сервис httpd функционировал корректно (статус: active (running)), но перезапуск не устранил проблему с сайтом.
