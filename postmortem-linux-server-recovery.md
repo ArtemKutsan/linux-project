@@ -142,7 +142,7 @@ sudo crontab -l
 nano backup_logs.sh`
 ```
 
-Содержимое скрипта (пример):
+Содержимое скрипта:
 
 ```bash
 #!/bin/bash
